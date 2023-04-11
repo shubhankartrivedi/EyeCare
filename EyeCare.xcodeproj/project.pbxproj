@@ -11,6 +11,7 @@
 		632940B429E5E84400C595E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632940B329E5E84400C595E2 /* ContentView.swift */; };
 		632940B629E5E84500C595E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632940B529E5E84500C595E2 /* Assets.xcassets */; };
 		632940B929E5E84500C595E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632940B829E5E84500C595E2 /* Preview Assets.xcassets */; };
+		632940C129E5FE6E00C595E2 /* mixkit-melodical-flute-music-notification-2310.wav in Resources */ = {isa = PBXBuildFile; fileRef = 632940C029E5FE6E00C595E2 /* mixkit-melodical-flute-music-notification-2310.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		632940B529E5E84500C595E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		632940B829E5E84500C595E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		632940BA29E5E84500C595E2 /* EyeCare.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EyeCare.entitlements; sourceTree = "<group>"; };
+		632940C029E5FE6E00C595E2 /* mixkit-melodical-flute-music-notification-2310.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "mixkit-melodical-flute-music-notification-2310.wav"; path = "../../../../../Downloads/mixkit-melodical-flute-music-notification-2310.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		632940B729E5E84500C595E2 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				632940C029E5FE6E00C595E2 /* mixkit-melodical-flute-music-notification-2310.wav */,
 				632940B829E5E84500C595E2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				632940C129E5FE6E00C595E2 /* mixkit-melodical-flute-music-notification-2310.wav in Resources */,
 				632940B929E5E84500C595E2 /* Preview Assets.xcassets in Resources */,
 				632940B629E5E84500C595E2 /* Assets.xcassets in Resources */,
 			);
